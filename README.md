@@ -6,7 +6,7 @@ This project aims to develop a gesture recognition system using Long Short-Term 
 
 ## Key Features
 - **LSTM Networks:** Utilizes LSTM networks to capture and analyze temporal information, allowing the model to process videos of different lengths effectively.
-- **Accurate Prediction:** Achieves a test accuracy of 86%, indicating the model's ability to accurately predict sign language actions.
+- **Accurate Prediction:** Achieves a test accuracy of 86% with the help of DTW , indicating the model's ability to accurately predict sign language actions.
 - **Real-World Applicability:** Suitable for real-world applications, enhancing communication between hearing-impaired individuals and the broader community.
 - **Potential for Integration:** Can be integrated into assistive technologies and devices for real-time translation of sign language gestures.
 
