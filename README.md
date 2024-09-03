@@ -1,4 +1,4 @@
-# Sing-Language-Detection-Using-LSTM-and-DTW
+# Sign-Language-Detection-Using-LSTM-and-DTW
 # Gesture Recognition with LSTM Networks
 
 ## Overview
@@ -23,3 +23,5 @@ This project aims to develop a gesture recognition system using Long Short-Term 
 3. **Evaluation:**
    - Evaluate the trained model using the test dataset to measure its accuracy.
    - Analyze the performance and fine-tune the model if necessary.
+
+Link for data used in training the model: https://drive.google.com/drive/folders/1fWrmm6H5gG2G8yBpjvGncPr_uAaFfkmp
